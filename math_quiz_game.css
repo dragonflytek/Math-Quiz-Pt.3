@@ -1,0 +1,38 @@
+body{
+    background-color: lightblue;
+}
+
+#buttonSubmit{
+    background-image: linear-gradient(to right,rgb(206, 255, 166), rgb(132, 207, 88), rgb(208, 255, 133) );
+}
+
+#output{
+    background-color: white;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    margin-left: 275px;
+    margin-top: 20px;
+}
+
+#player1_name{
+    height: 20px;
+    color: white;
+    font-family: cursive;
+}
+
+#player1_score{
+    height: 20px;
+    color: white;
+}
+
+#player2_name{
+    height: 20px;
+    color: white;
+    font-family: cursive;
+}
+
+#player2_score{
+    height: 20px;
+    color: white;
+}
